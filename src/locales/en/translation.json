@@ -1,0 +1,394 @@
+{
+  "employees": {
+    "title": "HIGH PROFESSIONAL STAFF",
+    "description": "The field of technology and engineering IT professional staff"
+  },
+  "companyInformation": {
+    "address": "Lot 6, Nam Thanh Urban Area, Alley 1, Nguyen Thi Due Street, Yen Hoa, Cau Giay, Hanoi",
+    "phoneNumber": "0392202429",
+    "email": "borostudio2018@gmail.com",
+    "company": "Company",
+    "aboutUs": "About us",
+    "product": "Product",
+    "Service": "Service",
+    "culture": "Culture",
+    "recruit": "Recruit",
+    "technology": "Technology",
+    "techEducation": "Edtech - Technology to support education",
+    "finance": "Fintech - Financing Technology",
+    "booking": "Booking - Service Support Technology",
+    "signup": "Sign up for the newsletter and stay up to date",
+    "contact": "Contact"
+  },
+  "positionName": {
+    "development": "Development",
+    "businessAnalysis": "Business Analysis",
+    "designer": "UI/UX Designer",
+    "generalManager": "General Manager"
+  },
+  "home": {
+    "title": "Home"
+  },
+  "scaffoldingFeature": {
+    "title": "Quick Scaffolding",
+    "description": "Automate the creation of components, features, routes, selectors and sagas - and their tests - right from the CLI! Avoid fighting the glue of your code and focus on your app!"
+  },
+  "HomePage": {
+    "Product": {
+      "title": "Product",
+      "content": "We have strengths in mobile/web products in various fields:",
+      "buttonDetail": "Detail",
+      "titleCard1": "Edtech",
+      "contentCard1": "Technology to support education",
+      "titleCard2": "Fintech",
+      "contentCard2": "Financial technology",
+      "titleCard3": "Booking",
+      "contentCard3": "Technology support service"
+    },
+    "Service": {
+      "title_ser": "Service",
+      "content_ser": "VIETDEFI provides UI/UX design services",
+      "detailImg1_ser": "Designing UX UI for mobile apps",
+      "detailImg2_ser": "Designing UX User Interfaces for Websites",
+      "detailImg3_ser": "Consulting and developing application interface",
+      "detailImg4_ser": "Design for system or platform"
+    },
+    "Introduce": {
+      "title": "Culture of VIETDEFI",
+      "content": "Culture is built on the basis of people as the center, including 3 main contents with the goal of making company members happy, engaged and developing together.",
+      "item_1": "Confidence to be yourself",
+      "item_2": "Share and support",
+      "item_3": "Unite and move forward"
+    },
+
+    "Recruit": {
+      "title": "Recruit",
+      "content": "We always welcome talents in the field of information technology in all positions:",
+      "contact": "Please send your CV to the email address:"
+    }
+  },
+  "about": {
+    "title": "About"
+  },
+  "product": {
+    "title": "Product"
+  },
+  "recruit": {
+    "title": "Recruit"
+  },
+  "buttonSeeMore": {
+    "title": "See more"
+  },
+  "slide1": {
+    "title": "One option for your important projects",
+    "content": "Leverage our expertise and capabilities to stay ahead of the digital wave and capitalize on business growth opportunities"
+  },
+  "slide2": {
+    "title": "The fastest way to achieve your business goals",
+    "content": "Leverage our expertise and capabilities to stay ahead of the digital wave and capitalize on business growth opportunities"
+  },
+  "slide3": {
+    "title": "Set up your business website quickly",
+    "content": "Leverage our expertise and capabilities to stay ahead of the digital wave and capitalize on business growth opportunities"
+  },
+  "slide4": {
+    "title": "Powerful functions and practical options",
+    "content": "Leverage our expertise and capabilities to stay ahead of the digital wave and capitalize on business growth opportunities"
+  },
+  "visionContent": {
+    "title": "Vision",
+    "content": "Vietdefi is a solution provider for all information technology products.",
+    "content2": "Vietdefi aims to become a production and logistics expert for information technology products. We bring comprehensive production and business cooperation solutions to customers. You have an idea we are ready to implement.",
+    "buttonTitle": "Read more"
+  },
+  "aboutPage": {
+    "story": {
+      "title": "We are VIETDEFI",
+      "description": "VIETDEFI company (short for Vietname Definition) was established on July 15, 2021, although it is still young, but it was formerly a team operating in the field of information technology. Stemming from the need to expand our scale and become more professional in our work, we decided to establish a company. Our company is not really a start-up company because we only focus on production and logistics in the IT field. Business problems will cooperate with parties with good finance, experience and strategy. We are not really an outsourcing company because the products we make are not bought and sold, but we cooperate in business and share profits according to reality.",
+      "quote": "“Work to live, live to be happy”"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "The company aims at products that apply information technology to make life easier for customers. We focus on building products, improving quality, and patiently waiting for market acceptance. The company's center is human resources and products, we prioritize all resources for the above two core factors. Believing that good people create good products will definitely succeed."
+    },
+    "coreValues": {
+      "title": "Core values",
+      "box1": {
+        "title": "The mentality of a winner never loses",
+        "description": "Successful people never give up and quitters never succeed. Of course, you can pause to rest, change direction...but don't give up. At VIETDEFI, new challenges are always an opportunity to test your courage and determination. The company's team is determined individuals, not afraid of difficulties, working together to overcome obstacles on the path of product development for the market. This indomitable and courageous attitude is one of the most important core values ​​of each person."
+      },
+      "box2": {
+        "title": "Newbie's attitude, never stop learning",
+        "description": "If the school teaches you to do well in all subjects, both natural and social, the school of life rewards extremely handsome people who are at the top, outstanding in a field. Then at VIETDEFI you will learn many things from colleagues and real projects."
+      },
+      "box3": {
+        "title": "The mentality of a winner never loses",
+        "description": "Then there will come a time, you will realize that no one else but you, alone in control of your head. So, everything you think, every belief you have, everything you do in the end is all up to you."
+      }
+    },
+    "benefit": {
+      "title": "Working at VIETDEFI",
+      "box1": {
+        "title": "Effective working environment",
+        "description": "We provide a spacious space, filled with natural light and modern equipment. All to help you feel free to be creative."
+      },
+      "box2": {
+        "title": "Attractive salary and bonus",
+        "description": "We have prepared enough financial resources to operate for at least the next 5 years. We are not in a hurry to make a profit, but will always choose financially safe moves."
+      },
+      "box3": {
+        "title": "Development opportunities",
+        "description": "The people here always have the ability to think creatively, flexibly handle problems, accurately perceive the target to solve the job easily."
+      }
+    },
+    "joining": {
+      "title": "Let's create value together",
+      "description": "Become part of the VIETDEFI family to create great products and meet fun colleagues",
+      "buttonJoin": "Join VIETDEFI"
+    }
+  },
+  "Recruit": {
+    "HeaderPosition": {
+      "Title": "Join with us",
+      "Content": "We don't care much about your inherent experience. The important thing is that you are an inquisitive person who knows how to get up after each failure or not. Working at VIETDEFI will be hard work, but what you get in return is totally worth it."
+    },
+
+    "Position": {
+      "Title": "RECRUITMENT POSITIONS",
+      "MoreDetail": "More detail",
+      "Footer_1": "The door is always open to young talents. If you feel that you are suitable for the company's values, please confidently submit your resume to",
+      "Footer_2": "to accompany us.",
+      "Back": "Back",
+      "Apply": "Apply",
+
+      "_2D_Artist": {
+        "JD": {
+          "Title": "Job description",
+          "Line_1": "Draw UI and characters for 2D games",
+          "Line_2": "The lines of hyper casual, casual, board games, games for kids require"
+        },
+        "Require": {
+          "Title": "Require",
+          "Line_1": "If you have no experience, training will be provided",
+          "Line_2": "GAME drawing experience is preferred",
+          "Line_3": "Communication, presentation and teamwork skills",
+          "Line_4": "Creative problem solving skills",
+          "Line_5": "Product thinking",
+          "Line_6": "Sociable, fun"
+        },
+        "Interest": {
+          "Title": "Interest",
+          "Line_1": "Negotiable salary based on work experience",
+          "Line_2": "Intern: 3-5 million",
+          "Line_3": "Junior: 10-15 million",
+          "Line_4": "Senior: Từ 15 million",
+          "Line_5": "13th month salary commitment",
+          "Line_6": "Insurance according to state regulations",
+          "Line_7": "Other benefits according to the company's regime",
+          "Line_8": "Receive commission based on the profit of the project"
+        },
+        "Apply": {
+          "Title": "Apply",
+          "Line_1": "Application information is sent to the address ",
+          "Line_2": "The subject of the letter clearly states Applying for the position of 2D Artist",
+          "Line_3": "Please attach your portfolio or cv"
+        },
+        "Location": {
+          "Title": "Work location",
+          "Address": "Lot 6, Lane 1, Nguyen Thi Due Street, Yen Hoa Ward, Cau Giay District, Hanoi"
+        }
+      },
+
+      "Designer": {
+        "JD": {
+          "Title": "Job description",
+          "Line_1": "Design interfaces on mobile and web for projects",
+          "Line_2": "Design images to support other activities such as marketing or internal activities"
+        },
+        "Require": {
+          "Title": "Require",
+          "Line_1": "Accept no experience in UI/UX design but need experience in visual design",
+          "Line_2": "Experience in UI/UX Designer is preferred",
+          "Line_3": "If you do not have experience, you can train before accepting the job"
+        },
+        "Interest": {
+          "Title": "Interest",
+          "Line_1": "Salary negotiable based on work experience. Salary 10 - 12 million for 1 year of experience, 12 - 15M for 2 years of experience, 15-20M for 3 years of experience and over 20M for from 4 years of experience.",
+          "Line_2": "13th month salary commitment",
+          "Line_3": "Insurance according to state regulations",
+          "Line_4": "Other benefits according to the company's regime",
+          "Line_5": "Receive commission based on the profit of the project"
+        },
+        "Apply": {
+          "Title": "Apply",
+          "Line_1": "Application information is sent to the address ",
+          "Line_2": "The subject of the letter should clearly state Apply for Project Management position",
+          "Line_3": "Please attach your portfolio or cv"
+        },
+        "Location": {
+          "Title": "Work location",
+          "Address": "Lot 6, Lane 1, Nguyen Thi Due Street, Yen Hoa Ward, Cau Giay District, Hanoi"
+        }
+      },
+      "Project_Management": {
+        "JD": {
+          "Title": "Job description",
+          "Line_1": "Product-oriented market research",
+          "Line_2": "Create ideas and functions for products",
+          "Line_3": "Develop documents in collaboration with PM and DEV to get the job done",
+          "Line_4": "Products are mainly in 3 areas, Edtech, Fintech and Booking"
+        },
+        "Require": {
+          "Title": "Require",
+          "Line_1": "Have a product mindset",
+          "Line_2": "Communication skills, presentation skills, problem solving skills and teamwork skills",
+          "Line_3": "Need to know the basics of figma",
+          "Line_4": "Note that the INTERN position is similar, but no experience is accepted and will be guided",
+          "Line_5": "If you are a student, accept a part-time job"
+        },
+        "Interest": {
+          "Title": "Interest",
+          "Line_1": "Salary negotiable based on work experience.",
+          "Line_2": "Salary 10 - 12 million for 1 year of experience, 12 - 15M for 2 years of experience, 15-20M for 3 years of experience and over 20M for from 4 years of experience.",
+          "Line_3": "13th month salary commitment",
+          "Line_4": "Insurance according to state regulations",
+          "Line_5": "Other benefits according to the company's regime",
+          "Line_6": "Receive commission based on the profit of the project"
+        },
+        "Apply": {
+          "Title": "Apply",
+          "Line_1": "Application information is sent to the address ",
+          "Line_2": "The subject of the letter should clearly state Apply for Project Management position"
+        },
+        "Location": {
+          "Title": "Work location",
+          "Address": "Lot 6, Lane 1, Nguyen Thi Due Street, Yen Hoa Ward, Cau Giay District, Hanoi"
+        }
+      },
+      "Business_Analysis": {
+        "JD": {
+          "Title": "Job description",
+          "Line_1": "Product-oriented market research",
+          "Line_2": "Create ideas and functions for products",
+          "Line_3": "Develop documents in collaboration with PM and DEV to get the job done",
+          "Line_4": "Products are mainly in 3 areas, Edtech, Fintech and Booking"
+        },
+        "Require": {
+          "Title": "Require",
+          "Line_1": "Have a product mindset",
+          "Line_2": "Communication skills, presentation skills, problem solving skills and teamwork skills",
+          "Line_3": "Need to know the basics of figma",
+          "Line_4": "Note that the INTERN position is similar, but no experience is accepted and will be guided",
+          "Line_5": "If you are a student, accept a part-time job"
+        },
+        "Interest": {
+          "Title": "Interest",
+          "Line_1": "Salary negotiable based on work experience.",
+          "Line_2": "Salary 10 - 12 million for 1 year of experience, 12 - 15M for 2 years of experience, 15-20M for 3 years of experience and over 20M for from 4 years of experience.",
+          "Line_3": "13th month salary commitment",
+          "Line_4": "Insurance according to state regulations",
+          "Line_5": "Other benefits according to the company's regime",
+          "Line_6": "Receive commission based on the profit of the project"
+        },
+        "Apply": {
+          "Title": "Apply",
+          "Line_1": "Application information is sent to the address ",
+          "Line_2": "The subject of the letter should clearly state Apply for Project Management position"
+        },
+        "Location": {
+          "Title": "Work location",
+          "Address": "Lot 6, Lane 1, Nguyen Thi Due Street, Yen Hoa Ward, Cau Giay District, Hanoi"
+        }
+      },
+      "Intern_Dev": {
+        "JD": {
+          "Title": "Job description",
+          "Line_1": "Building products on web/mobile platforms",
+          "Line_2": "Take on Front End or Back End work"
+        },
+        "Require": {
+          "Title": "Require",
+          "Line_1": "This position does not require work experience",
+          "Line_2": "If you are a student, accept part-time work",
+          "Line_3": "Good logical algorithm thinking",
+          "Line_4": "Communication skills, presentation skills, problem solving skills and teamwork skills",
+          "Line_5": "Have a product mindset"
+        },
+        "Development_roadmap": {
+          "Title": "Development process",
+          "Line_1": "Intern (up to 3 months)",
+          "Line_2": "Fresher (up to 1 year)",
+          "Line_3": "Junior (After Fresher position)",
+          "Line_4": "Develop documents in collaboration with PM and DEV to get the job doneSenior (After Junior position but without time limit, demonstrating good ability will be promoted to Senior position without waiting)",
+          "Line_5": "We don't let you worry about compensation, you just need to focus on your work."
+        },
+        "Interest": {
+          "Title": "Interest",
+          "Line_1": "Salary 4-6 million for Intern",
+          "Line_2": "Salary 10-20 million for Fresher",
+          "Line_3": "Salary 20 - 25 million for Junior position",
+          "Line_4": "Salary 25 million or more for Senior position",
+          "Line_5": "We don't let you worry about compensation, you just need to focus on your work",
+          "Line_6": "13th month salary commitment",
+          "Line_7": "Insurance according to state regulations",
+          "Line_8": "Other benefits according to the company's regime",
+          "Line_9": "Receive commission based on the profit of the project"
+        },
+        "Apply": {
+          "Title": "Apply",
+          "Line_1": "Application information is sent to the address ",
+          "Line_2": "The subject of the letter should clearly state Apply for the position INTERN DEVELOPER",
+          "Line_3": "Please attach your portfolio or cv",
+          "Line_4": "Step 1: Browse CV",
+          "Line_5": "Step 2: Take the logic test (online)",
+          "Line_6": "Step 3: Direct interview at the company",
+          "Line_7": "Step 4: Receive a job offer letter",
+          "Line_8": "Note whether you pass or fail, we will always commit to informing you and ready to share the reasons (if required) in case you are not suitable to work at the company."
+        },
+        "Location": {
+          "Title": "Work location",
+          "Address": "Lot 6, Lane 1, Nguyen Thi Due Street, Yen Hoa Ward, Cau Giay District, Hanoi"
+        }
+      },
+      "Quality_Control": {
+        "JD": {
+          "Title": "Job description",
+          "Line_1": "Project and product quality management",
+          "Line_2": "Do Test Plan, Test Case",
+          "Line_3": "Product testing, api testing, BA document testing, design documentation."
+        },
+        "Require": {
+          "Title": "Require",
+          "Line_1": "If you have no experience, training will be provided",
+          "Line_2": "Test drawing experience is preferred",
+          "Line_3": "Communication, presentation and teamwork skills",
+          "Line_4": "Creative problem solving skills",
+          "Line_5": "Product thinking",
+          "Line_6": "Sociable, fun"
+        },
+        "Interest": {
+          "Title": "Interest",
+          "Line_1": "Negotiable salary based on work experience",
+          "Line_2": "Internet: 3-5 million",
+          "Line_3": "Fresher: 8-10 million",
+          "Line_4": "Junior: 10-15 million",
+          "Line_5": "Senior: From 15 million",
+          "Line_6": "13th month salary commitment",
+          "Line_7": "Insurance according to state regulations",
+          "Line_8": "Other benefits according to the company's regime",
+          "Line_9": "Receive commission based on the profit of the project"
+        },
+        "Apply": {
+          "Title": "Apply",
+          "Line_1": "Application information is sent to the address ",
+          "Line_2": "The subject of the letter should clearly state Apply for the position Quality Control",
+          "Line_3": "Please attach your portfolio or cv"
+        },
+        "Location": {
+          "Title": "Work location",
+          "Address": "Lot 6, Lane 1, Nguyen Thi Due Street, Yen Hoa Ward, Cau Giay District, Hanoi"
+        }
+      }
+    }
+  }
+}
